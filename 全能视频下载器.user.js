@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         柒灵全能视频下载器
+// @name        全能视频下载器
 // @namespace    https://weibo.com/guoxuebiji/profile?is_all=1
 // @version      2.6.7
 // @description  (目前支持)哔哩哔哩(bilibili)/优酷网(youku)/腾讯视频(qq)/爱奇艺(iqiyi)/国家中小学网络云课堂(www.zxx.edu.cn/syncClassroom)视频批量下载, 加速下载, 随时随地想看就看. 支持微元素/花瓣网图片批量下载
